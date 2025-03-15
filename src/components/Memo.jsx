@@ -9,7 +9,9 @@ function MovieViewsRealtime({title, releaseDate, views}) {
 function Memo() {
   return (
     <>
-      
+      <h1>HELLO</h1>
     </>
   );
 }
+
+export default Memo;
